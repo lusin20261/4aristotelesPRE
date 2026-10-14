@@ -3,7 +3,7 @@
 ======================================*/
 :root {
     --color-primario: #6a5bf5;
-    --color-secundario: #39929ede;
+    --color-secundario: #81cfdade;
 }
 
 /*======================================
@@ -84,7 +84,7 @@ main {
   TARJETAS
 ======================================*/
 .card {
-    background: white;
+    background: rgba(255, 255, 255, 0.87);
 
     margin-bottom: 30px;
     padding: 30px;
