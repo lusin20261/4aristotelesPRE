@@ -1,5 +1,0 @@
-print ("practica") 
-M = input ("escribe UN lugar :")
-X = input ("escribe un objecto:") 
-N = input ("escribe  un color: ") 
-print ("En",M,"encima de la mesa hay un",X,"de color",N, "me lo traes.")
